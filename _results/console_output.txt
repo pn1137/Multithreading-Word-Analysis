@@ -1,0 +1,44 @@
+File opened: _data/train_250k_clean
+File opened: _data/train_1000k_clean
+File opened: _data/train_1750k_clean
+File opened: _data/train_2500k_clean
+File closed: _data/train_2500k_clean
+Number of Words in _data/train_2500k_clean: 18768059
+File opened: _data/train_2750k_clean
+File closed: _data/train_1750k_clean
+Number of Words in _data/train_1750k_clean: 18996532
+File opened: _data/train_2000k_clean
+File closed: _data/train_1000k_clean
+Number of Words in _data/train_1000k_clean: 19196324
+File opened: _data/train_1250k_clean
+File closed: _data/train_250k_clean
+Number of Words in _data/train_250k_clean: 19453897
+File opened: _data/train_500k_clean
+File closed: _data/train_2750k_clean
+Number of Words in _data/train_2750k_clean: 18775646
+File opened: _data/train_3000k_clean
+File closed: _data/train_2000k_clean
+Number of Words in _data/train_2000k_clean: 18921262
+File opened: _data/train_2250k_clean
+File closed: _data/train_500k_clean
+Number of Words in _data/train_500k_clean: 19292692
+File opened: _data/train_750k_clean
+File closed: _data/train_1250k_clean
+Number of Words in _data/train_1250k_clean: 19176398
+File opened: _data/train_1500k_clean
+File closed: _data/train_3000k_clean
+Number of Words in _data/train_3000k_clean: 18819611
+File closed: _data/train_2250k_clean
+Number of Words in _data/train_2250k_clean: 18866123
+File closed: _data/train_750k_clean
+Number of Words in _data/train_750k_clean: 19214942
+File closed: _data/train_1500k_clean
+Number of Words in _data/train_1500k_clean: 19074326
+Finished counting words from files.
+Preliminary Unique Word Count: 822828
+Preliminary Total Word Count: 228555812
+Time to convert and clean csv to txt: 0 ms
+Time to count words: 51850 ms
+Time to sort map into vect: 843 ms
+Time to save vect to txt: 919 ms
+Total time: 53613 ms

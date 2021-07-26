@@ -1,0 +1,7 @@
+                      Time to convert and clean csv to txt: 0 ms
+  Time to convert and clean csv to txt with multithreading: 0 ms
+                                       Time to count words: 0 ms
+                   Time to count words with multithreading: 50617 ms
+                                Time to sort map into vect: 859 ms
+                                  Time to save vect to txt: 1551 ms
+                                                Total time: 53028 ms
